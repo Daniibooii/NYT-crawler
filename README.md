@@ -1,12 +1,29 @@
 # New York Times Scraper - Class Project
-## by Adam Specker for GWU Coding Bootcamp Spring 2018
 
-## Notes
-* final addition of conditional to load pages if result length is left blank
-* conditional to allow for input in one, both, or neither of the boundary dates
-    * I think this could be streamlined some to avoid having duplicate URLs
+# Notes
 
-## Assignment Instructions
+2/23/2018:
+<br></br>
+This is my fork of a group project worked on over 2 hours during the fourth week of coding bootcamp.
+A four person team worked to complete the tasks listed after this introduction.
+The work was divided into two main portions, roughly corresponding to front-end and back-end work.
+Two team members were assigned to each.
+
+My version of the completed project is hosted at: https://daniibooii.github.io/nyt-crawler/
+
+# Remaining Work
+Some amount of JS/JQ work remains; I would also like to polish up my CSS/Bootstrap, time permitting.
+
+# Contributors
+
+Max Cliff - back-end; github: https://github.com/maxcliff <br></br>
+Daniel Mace - front-end; github: https://github.com/Daniibooii <br></br>
+Adam Specker - front-end; github: https://github.com/aspecker <br></br>
+Nicole Yoon - back-end; github:https://github.com/sail0rm00n <br></br>
+
+
+
+# New York Times Article Search - Phase 01
 
 ## Front-End Team
 
