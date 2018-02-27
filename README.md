@@ -1,15 +1,17 @@
-# New York Times Scraper - Class Project
+# NYT-crawler
+
+# Project Description
+This is my fork of a group project worked on over 2 hours during the fourth week of coding bootcamp.<br>
+A four person team worked to complete the tasks listed after this introduction.<br>
+The work was divided into two main portions, roughly corresponding to front-end and back-end work.<br>
+Two team members were assigned to each.<br>
+
+My version of the completed project is hosted at: https://daniibooii.github.io/nyt-crawler/<br>
+
+The original instructions can be found under the second New York Times heading.<br>
 
 # Notes
-
-2/23/2018:
-<br></br>
-This is my fork of a group project worked on over 2 hours during the fourth week of coding bootcamp.
-A four person team worked to complete the tasks listed after this introduction.
-The work was divided into two main portions, roughly corresponding to front-end and back-end work.
-Two team members were assigned to each.
-
-My version of the completed project is hosted at: https://daniibooii.github.io/nyt-crawler/
+<br>
 
 # Remaining Work
 Some amount of JS/JQ work remains; I would also like to polish up my CSS/Bootstrap, time permitting.
