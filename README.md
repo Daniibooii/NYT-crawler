@@ -9,7 +9,7 @@ The work was divided into two main portions, roughly corresponding to front-end 
 It is my intention to return to and further develop this project soon, utilizing newly-acquired skills.<br>
 
 # How to Use
-Access the scraper directly at: https://daniibooii.github.io/NYT-crawler/<br>
+Access the scraper directly at: https://daniibooii.github.io/NYT-scraper/<br>
 or DL my repo and open index.html in the browser of your choice.<br>
 
 The user will enter their search terms into a form, and our scraper will find relevant articles from the New York Times.<br>
