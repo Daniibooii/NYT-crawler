@@ -1,6 +1,6 @@
 # NYT-crawler
 
-<img src="https://github.com/Daniibooii/NYT-scraper/blob/master/assets/images/NYTScraperPHImage.PNG"><br>
+<img src="https://github.com/Daniibooii/NYT-scraper/blob/master/assets/images/NYTScraperPHImage.PNG" height=250px width=280px><br>
 
 # Project Description
 This project allows the user to pull, or "scrape," articles from the New York Times.<br>
